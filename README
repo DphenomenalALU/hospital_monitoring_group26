@@ -1,0 +1,37 @@
+# Hopsital Data Handling and Monitoring System
+
+This project aims to create a  system that  records heart rate data, archive logs, and securely backs them up into a remote server for future access
+
+## Setting up
+### Prerequisites
+
+- Ensure you have a Unix/Linux environment with Bash shell support
+- Ensure ypou have SSH access to backup remote server
+- Ensure you have the necessary permissions to create and modify files in the working directory
+
+### Set up instructions
+
+To set up the program locally, follow this steps;
+
+1.Once you have succesfully navigated to your system terminal, enter the following command.
+`git clone git@github.com:DphenomenalALU/hospital_monitoring_group26.git`
+
+2.Navigate to the directory
+`cd hospital_monitoring_group26`
+
+3.Run the heart rate monitoring script by entering the following command in the terminal 
+`./heart_rate_monitor.sh`
+- This should prompt for the device name, and begin logging heartrate data every second into heart_rate_log.txt and display the process ID
+
+4.To view/monitor the heart rate data in real-time, use the following command;
+`tail -f heart_rate_log.txt`
+
+5.To run the log archival script, use the following command;
+`./archive_log.sh`
+
+## Report on team attendance.
+
+The team has met once, an online meeting was first held on 1, Oct, 2024 and all members except Delphin attended. Further discussions were held via chat on google space, and follow up meetings initiated to work towards the completion of the project. In the final stages of working on the project, Ibrahim Salami, Chelsea Nabwire and Victor Akin worked together to complete the project.
+
+# Conclusion
+This step by step set up guide should provide an accuirate foundation for users to get started on the system. Incase of any errors occured, kindly reach out to us via group26@alu.  
