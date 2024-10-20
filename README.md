@@ -101,7 +101,7 @@ Throughout the development of this project, the group met regularly to discuss a
 | **Session**                 | **Date (2024)** | **Present**                                          | **Absent** |
 |-----------------------------|-----------------|-----------------------------------------------------|------------|
 | Task Introduction & Delegation         | Thursday, Oct 17         | Ibrahim, Victor, Chelsea, Alexis | Delphin       |
-| Final Testing & Documentation| Sunday, Oct 20      | Ibrahim, Victor, Chelsea, Alexis  | Delphin       |
+| Final Testing & Documentation| Sunday, Oct 20      | Ibrahim, Victor, Chelsea  | Delphin, ALexis       |
 
 ---
 
