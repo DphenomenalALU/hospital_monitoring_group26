@@ -18,4 +18,4 @@ while true; do
 done &
 
 # Display process ID for management
-echo "The process ID (PID) for this script is: $!"
+echo "The process ID (PID) for this script is: $!
